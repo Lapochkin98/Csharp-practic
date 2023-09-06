@@ -1,0 +1,17 @@
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\bin\Debug\Day19Tasks.exe.config
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\bin\Debug\Day19Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\bin\Debug\Day19Tasks.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.csproj.SuggestedBindingRedirects.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.Properties.Resources.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.csproj.GenerateResource.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.csproj.CoreCompileInputs.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.Form1.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\bin\Debug\Newtonsoft.Json.dll
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\bin\Debug\Newtonsoft.Json.xml
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.csproj.CopyComplete
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\obj\Debug\Day19Tasks.DictionaryEnlarger.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\bin\Debug\Data\EnRuDict.json
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day19Tasks\bin\Debug\Data\RuEnDict.json

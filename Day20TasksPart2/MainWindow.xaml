@@ -1,0 +1,34 @@
+﻿<Window x:Class="Day20TasksPart2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="510" Width="900">
+    <Grid>
+        <Button Name ="button2" Content="Click" Margin="10,10,784,406" Click="Button1_Click"/>
+        <TextBox Name ="textBox1" HorizontalAlignment="Left" Margin="121,10,0,0" TextWrapping="Wrap" Text="Write something" VerticalAlignment="Top" Width="120"/>
+        <Button Name ="button1" Content="Click" Margin="10,90,784,327" Click="Button2_Click"/>
+        <Label Name ="label1" Content="0" HorizontalAlignment="Left" Margin="141,90,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="textBox2" HorizontalAlignment="Left" Margin="10,179,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="78"/>
+        <TextBox Name="textBox3" HorizontalAlignment="Left" Margin="111,179,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="78"/>
+        <Label x:Name ="label2" Content="0" HorizontalAlignment="Left" Margin="207,175,0,0" VerticalAlignment="Top"/>
+        <Button x:Name ="button3" Content="Click" Margin="10,208,711,230" Click="Button3_Click"/>
+        <RadioButton Name="radioButton1" Content="ToRed" HorizontalAlignment="Left" Margin="10,277,0,0" VerticalAlignment="Top" Checked="radioButton1_Checked"/>
+        <RadioButton Name="radioButton2" Content="ToGreen" HorizontalAlignment="Left" Margin="10,298,0,0" VerticalAlignment="Top" Checked="radioButton2_Checked"/>
+        <TextBox x:Name="widthTextBox" Margin="10,375,744,80"/>
+
+        <Button Content="Resize" Margin="12,432,742,10" Click="ResizeButton_Click"/>
+        <TextBox x:Name="heightTextBox" Margin="10,332,744,123"/>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="296,13,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" IsChecked="False" Unchecked="CheckBox_Unchecked"/>
+        <Label Name="label10" Content="LAPA" HorizontalAlignment="Left" Margin="394,6,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="inputTextBox" HorizontalAlignment="Left" Margin="296,67,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="182"/>
+        <Label Name="characterCountLabel" Content="Label" HorizontalAlignment="Left" Height="26" Margin="296,98,0,0" VerticalAlignment="Top" Width="182"/>
+        <Label Name="wordCountLabel" Content="Label" HorizontalAlignment="Left" Height="26" Margin="296,150,0,0" VerticalAlignment="Top" Width="182"/>
+        <Label Name="digitCountLabel" Content="Label" HorizontalAlignment="Left" Height="26" Margin="296,124,0,0" VerticalAlignment="Top" Width="182"/>
+        <Label x:Name="punctuationCountLabel" Content="Label" HorizontalAlignment="Left" Height="26" Margin="296,179,0,0" VerticalAlignment="Top" Width="182"/>
+        <Button Name ="calculate" Content="Button" HorizontalAlignment="Left" Margin="299,216,0,0" VerticalAlignment="Top" Height="30" Width="179" Click="calculate_Click"/>
+        <Label Name="resultLabel" Content="Label" HorizontalAlignment="Left" Height="57" Margin="299,257,0,0" VerticalAlignment="Top" Width="179"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="299,332,0,0" VerticalAlignment="Top" Height="38" Width="179" Click="CalculateButton_Click"/>
+    </Grid>
+</Window>

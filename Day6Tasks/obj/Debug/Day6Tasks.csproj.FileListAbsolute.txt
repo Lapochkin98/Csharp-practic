@@ -1,0 +1,7 @@
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day6Tasks\bin\Debug\Day6Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day6Tasks\bin\Debug\Day6Tasks.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day6Tasks\obj\Debug\Day6Tasks.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day6Tasks\obj\Debug\Day6Tasks.csproj.SuggestedBindingRedirects.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day6Tasks\obj\Debug\Day6Tasks.csproj.CoreCompileInputs.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day6Tasks\obj\Debug\Day6Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day6Tasks\obj\Debug\Day6Tasks.pdb

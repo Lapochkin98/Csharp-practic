@@ -1,0 +1,86 @@
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.exe
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.deps.json
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.runtimeconfig.json
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.pdb
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25_MarkupCompile.cache
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.g.resources
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.AssemblyInfo.cs
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\refint\Practice.Day25.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.pdb
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\ref\Practice.Day25.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\EFCore.NamingConventions.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Andrey\source\repos\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.csproj.CopyComplete
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.exe
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.deps.json
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.runtimeconfig.json
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Practice.Day25.pdb
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\EFCore.NamingConventions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Npgsql.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.csproj.AssemblyReference.cache
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25_MarkupCompile.cache
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.g.resources
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.AssemblyInfoInputs.cache
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.AssemblyInfo.cs
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.csproj.CoreCompileInputs.cache
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.csproj.CopyComplete
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\refint\Practice.Day25.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.pdb
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\Practice.Day25.genruntimeconfig.cache
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\obj\Debug\net7.0-windows\ref\Practice.Day25.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\MimeTypeMap.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\dorak\OneDrive\Рабочий стол\CSharpPractice\Practice.Day25\bin\Debug\net7.0-windows\Microsoft.Office.Interop.Excel.dll

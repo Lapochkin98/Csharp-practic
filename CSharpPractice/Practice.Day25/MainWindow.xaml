@@ -1,0 +1,137 @@
+﻿<Window x:Class="Practice.Day25.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Rental Management System" Height="430" Width="730"
+        FontFamily="Comic Sans MS">
+    <Grid>
+        <TabControl Background="Yellow">
+            <TabItem Header="Items">
+                <!-- Controls for managing rental items -->
+                <Grid>
+                    <!-- Rental item list -->
+                    <ListView x:Name="rentalItemList" HorizontalAlignment="Left" Height="260" Margin="10,10,0,0" VerticalAlignment="Top" Width="360" SelectionChanged = "RentalItemList_SelectionChanged" Initialized="rentalList_Initialized">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" Width="50"/>
+                                <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Name}" Width="150"/>
+                                <GridViewColumn Header="Цена" DisplayMemberBinding="{Binding Price}" Width="80"/>
+                                <GridViewColumn Header="Статус" DisplayMemberBinding="{Binding Status}" Width="80"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                    <!-- Rental item search -->
+                    <TextBlock Margin="10,280,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">Search: </TextBlock> <TextBox x:Name="rentalItemSearch" Width="150" Margin="60,280,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" TextChanged="rentalItemSearch_TextChanged"/>
+
+                    <!-- Rental item details -->
+                    <StackPanel Orientation="Vertical" Margin="380,10,0,0">
+                        <TextBlock Text="ID:"/>
+                        <TextBox x:Name="rentalItemId" HorizontalAlignment="Left" IsEnabled="false" Width="220" Margin="0,5"/>
+                        <TextBlock Text="Name:"/>
+                        <TextBox x:Name="rentalItemName" HorizontalAlignment="Left" Width="220" Margin="0,5"/>
+                        <TextBlock Text="Cost:"/>
+                        <TextBox x:Name="rentalItemPrice" HorizontalAlignment="Left" Width="220" Margin="0,5"/>
+                        <TextBlock Text="Status:"/>
+                        <TextBox x:Name="rentalItemStatus" HorizontalAlignment="Left" Width="220" Margin="0,5"/>
+                        <StackPanel Orientation="Horizontal" Margin="0,10">
+                            <Button Content="Add" Click="AddRentalItem_Click" Margin="0,0,10,0"/>
+                            <Button Content="Delete" Click="DeleteRentalItem_Click" Margin="0,0,10,0"/>
+                            <Button Content="Change" Click="EditRentalItem_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Clients">
+                <!-- Controls for managing clients -->
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="91*"/>
+                        <ColumnDefinition Width="261*"/>
+                    </Grid.ColumnDefinitions>
+                    <!-- Client list -->
+                    <ListView x:Name="clientList" HorizontalAlignment="Left" Height="280" Margin="10,10,0,0" VerticalAlignment="Top" Width="405" Initialized="clientList_Initialized" SelectionChanged = "clientList_SelectionChanged" Grid.ColumnSpan="2">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" Width="50"/>
+                                <GridViewColumn Header="Имя" DisplayMemberBinding="{Binding Name}" Width="150"/>
+                                <GridViewColumn Header="Телефон" DisplayMemberBinding="{Binding Phone}" Width="100"/>
+                                <GridViewColumn Header="Номер паспорта" DisplayMemberBinding="{Binding PassportNumber}" Width="100"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                    <!-- ClientList search -->
+                    <TextBlock Grid.Column="0" Margin="10,300,0,0" VerticalAlignment="Top" HorizontalAlignment="Left">Search: </TextBlock><TextBox Grid.Column="0" x:Name="clientListSearch" Width="350" Margin="60,300,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" TextChanged="clientListSearch_TextChanged"/>
+
+                    <!-- Client details -->
+                    <StackPanel Orientation="Vertical" Margin="248,10,0,0" Grid.Column="1">
+                        <TextBlock Text="ID:"/>
+                        <TextBox x:Name="clientId" HorizontalAlignment="Left" IsEnabled ="false" Width="220" Margin="0,5"/>
+                        <TextBlock Text="Name:"/>
+                        <TextBox x:Name="clientName" HorizontalAlignment="Left" Width="220" Margin="0,5"/>
+                        <TextBlock Text="Phone number:"/>
+                        <TextBox x:Name="clientPhone" HorizontalAlignment="Left" Width="220" Margin="0,5"/>
+                        <TextBlock Text="Passport Id:"/>
+                        <TextBox x:Name="clientPassportNumber" HorizontalAlignment="Left" Width="220" Margin="0,5"/>
+                        <StackPanel Orientation="Horizontal" Margin="0,10">
+                            <Button Content="Add" Click="AddClient_Click" Margin="0,0,10,0"/>
+                            <Button Content="Delete" Click="DeleteClient_Click" Margin="0,0,10,0"/>
+                            <Button Content="Change" Click="EditClient_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Заказы">
+                <!-- Controls for managing orders -->
+                <Grid>
+                    <!-- Order list -->
+                    <ListView x:Name="orderList" HorizontalAlignment="Left" Height="321" Margin="10,10,0,0" VerticalAlignment="Top" Width="455" Initialized="orderList_Initialized" SelectionChanged="orderList_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="ID" DisplayMemberBinding="{Binding Id}" Width="50"/>
+                                <GridViewColumn Header="ID клиента" DisplayMemberBinding="{Binding CustomerId}" Width="80"/>
+                                <GridViewColumn Header="ID товара" DisplayMemberBinding="{Binding ItemId}" Width="80"/>
+                                <GridViewColumn Header="Дата выдачи" DisplayMemberBinding="{Binding RentalDate}" Width="120"/>
+                                <GridViewColumn Header="Кол-во дней/часов" DisplayMemberBinding="{Binding RentalDuration}" Width="120"/>
+                                <GridViewColumn Header="Итоговая стоимость" DisplayMemberBinding="{Binding TotalCost}" Width="120"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                    <!-- OrderList search -->
+
+                    <!-- Order details -->
+                    <StackPanel Margin="475,10,0,0">
+                        <TextBlock Text="ID:"/>
+                        <TextBox x:Name="orderId" HorizontalAlignment="Left" IsEnabled="false" Width="150" Margin="0,5"/>
+                        <TextBlock Text="ID клиента:"/>
+                        <TextBox x:Name="orderClientId" HorizontalAlignment="Left" Width="150" Margin="0,5"/>
+                        <TextBlock Text="ID товара:"/>
+                        <TextBox x:Name="orderItemId" HorizontalAlignment="Left" Width="150" Margin="0,5"/>
+                        <TextBlock Text="Дата выдачи:"/>
+                        <DatePicker x:Name="orderRentalDate" HorizontalAlignment="Left" Width="150" Margin="0,5"/>
+                        <TextBlock Text="Кол-во дней/часов:"/>
+                        <TextBox x:Name="orderRentalDuration" HorizontalAlignment="Left" Width="150" Margin="0,5" TextChanged="orderRentalDuration_TextChanged"/>
+                        <TextBlock Text="Итоговая стоимость:"/>
+                        <TextBox x:Name="orderTotalCost" IsEnabled="false" HorizontalAlignment="Left" Width="150" Margin="0,5"/>
+                        <StackPanel Orientation="Horizontal" Margin="0,10">
+                            <Button Content="Добавить" Click="AddOrder_Click" Margin="0,0,10,0" Width="70"/>
+                            <Button Content="Удалить" Click="DeleteOrder_Click" Margin="0,0,10,0"  Width="61"/>
+                            <Button Content="Редактировать" Click="EditOrder_Click" Width="100"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <!-- Order WordExport -->
+                    <Button x:Name="wordExport" IsEnabled="false" Content="Экспорт в Ворд" Height="20" Width="150" Margin="10,340,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="wordExportButton_Click"/> <Button x:Name="excelExport" Content="Экспорт в Excel" Height="20" Width="150" Margin="170,340,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="excelExportButton_Click"/>
+                </Grid>
+            </TabItem>
+            
+            
+        </TabControl>
+    </Grid>
+</Window>

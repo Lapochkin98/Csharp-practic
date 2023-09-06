@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pi0faKChkVR+mVf2PhEZPiFaGAC15wJBeqndHF4NbfbMkeSxt6f/0AwLkvfgg4tek2KNbvPp+K717+Gm8PBdAA==",
+  "success": true,
+  "projectFilePath": "D:\\College Labs\\MyLabs\\C#works\\Practic\\day.1\\ConsoleApplication1\\Day21Tasks\\Day21Tasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dorak\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dorak\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dorak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dorak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dorak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\bin\Debug\Day17Tasks.exe.config
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\bin\Debug\Day17Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\bin\Debug\Day17Tasks.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.csproj.SuggestedBindingRedirects.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.Properties.Resources.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.csproj.GenerateResource.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.csproj.CoreCompileInputs.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.Form1.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day17Tasks\obj\Debug\Day17Tasks.NewNote.resources

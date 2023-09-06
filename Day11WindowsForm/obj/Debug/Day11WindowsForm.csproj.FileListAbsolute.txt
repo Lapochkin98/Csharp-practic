@@ -1,0 +1,11 @@
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\bin\Debug\Day11WindowsForm.exe.config
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\bin\Debug\Day11WindowsForm.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\bin\Debug\Day11WindowsForm.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.Properties.Resources.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.csproj.GenerateResource.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.csproj.CoreCompileInputs.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day11WindowsForm\obj\Debug\Day11WindowsForm.Form1.resources

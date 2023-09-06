@@ -1,0 +1,12 @@
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\bin\Debug\Day10Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\bin\Debug\Day10Tasks.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\obj\Debug\Day10Tasks.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\obj\Debug\Day10Tasks.csproj.SuggestedBindingRedirects.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\obj\Debug\Day10Tasks.csproj.CoreCompileInputs.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\obj\Debug\Day10Tasks.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\obj\Debug\Day10Tasks.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\bin\Debug\Day9TasksPart3.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\bin\Debug\Day9TasksPart3.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\obj\Debug\Day10Tasks.csproj.CopyComplete
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\bin\Debug\Day9TasksPart2.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day10Tasks\bin\Debug\Day9TasksPart2.pdb

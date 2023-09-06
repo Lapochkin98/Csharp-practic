@@ -1,0 +1,2 @@
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day26Tasks\obj\Debug\Day26Tasks.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day26Tasks\obj\Debug\Day26Tasks.csproj.SuggestedBindingRedirects.cache

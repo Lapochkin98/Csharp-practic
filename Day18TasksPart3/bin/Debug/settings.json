@@ -1,0 +1,50 @@
+﻿[  
+  {    
+    "type": "суп",    
+    "name": "Грибной",    
+    "quantity": 300,    
+    "photoPath": "photos/soup_mushroom.jpg"
+  },  
+  {    
+    "type": "суп",   
+    "name": "Борщ",    
+    "quantity": 250,    
+    "photoPath": "photos/soup_borsch.jpg"
+  },  
+  {    
+    "type": "салат",    
+    "name": "Цезарь",    
+    "quantity": 150,    
+    "photoPath": "photos/salad_caesar.jpg"
+  },  
+  {    
+    "type": "салат",    
+    "name": "Оливье",    
+    "quantity": 200,    
+    "photoPath": "photos/salad_olivier.jpg"
+  },  
+  {    
+    "type": "десерт",    
+    "name": "Тирамису",    
+    "quantity": 100,    
+    "photoPath": "photos/dessert_tiramisu.jpg"
+  },  
+  {    
+    "type": "десерт",    
+    "name": "Чизкейк",    
+    "quantity": 120,    
+    "photoPath": "photos/dessert_cheesecake.jpg"
+  },  
+  {    
+    "type": "суп",    
+    "name": "Куриный бульон",    
+    "quantity": 200,    
+    "photoPath": "photos/soup_chicken.jpg"
+  },  
+  {    
+    "type": "суп",    
+    "name": "Рассольник",    
+    "quantity": 280,    
+    "photoPath": "photos/soup_pickle.jpg"
+  }
+]

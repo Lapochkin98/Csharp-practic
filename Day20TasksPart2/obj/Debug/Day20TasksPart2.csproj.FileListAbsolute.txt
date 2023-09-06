@@ -1,0 +1,15 @@
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\bin\Debug\Day20TasksPart2.exe.config
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\bin\Debug\Day20TasksPart2.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\bin\Debug\Day20TasksPart2.pdb
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.csproj.AssemblyReference.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.csproj.SuggestedBindingRedirects.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\MainWindow.baml
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\MainWindow.g.cs
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\App.g.cs
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2_MarkupCompile.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.g.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.Properties.Resources.resources
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.csproj.GenerateResource.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.csproj.CoreCompileInputs.cache
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.exe
+D:\College Labs\MyLabs\C#works\Practic\day.1\ConsoleApplication1\Day20TasksPart2\obj\Debug\Day20TasksPart2.pdb
